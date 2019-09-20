@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ajololr.github.io/rsschool-cv/cv

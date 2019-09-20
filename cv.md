@@ -57,3 +57,12 @@ int compare_by_a_field(const void* first, const void* second)
 
 * [University labs](https://pastebin.com/u/Andrik0099)
 * Course project (Pac-Man)
+
+### Education
+
+1. Belarusian State University of Informatics and Radioelectronics student
+2. Rolling Scopes School student
+
+### English
+
+Participation in english olympiad at school and conference at university. 
